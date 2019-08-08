@@ -1,0 +1,19 @@
+{
+  "name": "buscador-nodejs",
+  "version": "1.0.0",
+  "description": "buscador desarrollado en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "buscador"
+  ],
+  "author": "Alejandro Ardila Ospina",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "save": "^2.4.0"
+  }
+}
